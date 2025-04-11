@@ -46,3 +46,9 @@ Thumbs.db
 *.pkl
 *.h5
 *.model 
+
+# Daten
+data/
+data/*
+logs/*
+logs/
