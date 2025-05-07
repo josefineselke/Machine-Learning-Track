@@ -2,25 +2,6 @@
 
 Ein umfassender Lernpfad für Machine Learning, speziell ausgerichtet auf Data Science und Azure Cloud Consulting.
 
-## Projektstruktur
-
-```
-ml-track/
-├── 01_einfuehrung/
-├── 02_python_ml_oekosystem/
-├── 03_datenvorbereitung/
-├── 04_unueberwachtes_lernen/
-├── 05_ueberwachtes_lernen/
-├── 06_modelltraining_evaluation/
-├── 07_reinforcement_learning/
-├── 08_zeitreihenanalyse/
-├── 09_mlops_produktivsetzung/
-└── praxisaufgaben/
-    ├── aufgabe_01/
-    ├── aufgabe_02/
-    └── ...
-```
-
 ## Installation
 
 ### Lokale Entwicklung
